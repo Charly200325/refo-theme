@@ -89,7 +89,13 @@
     "featured_collection_7r4fA9": {
       "type": "featured-collection",
       "custom_css": [
-        ".product-card--badges {display: none !important;}"
+        ".product-card,.products .columns{background:0!important;border:0!important;box-shadow:none!important;padding:0!important}",
+        ".product-card-info{background:0!important;padding:6px 0!important;border:0}",
+        ".product-card-title{font-size:13px!important;margin-top:6px!important}",
+        ".price{margin-top:4px!important}",
+        ".star-rating{margin-top:4px!important}",
+        ".carousel__slide{padding:0 8px!important}",
+        ".product-card:hover{transform:none!important;box-shadow:none!important}"
       ],
       "name": "Featured collection",
       "settings": {
