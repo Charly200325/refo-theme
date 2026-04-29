@@ -17,7 +17,7 @@
     "navigation_font_scale": 100,
     "navigation_uppercase": true,
     "product_title_font_scale": 100,
-    "product_title_line_height_scale": 100,
+    "product_title_line_height_scale": 80,
     "product_title_uppercase": false,
     "button_letter_spacing": 20,
     "button_uppercase": true,
