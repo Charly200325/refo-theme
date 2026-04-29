@@ -61,6 +61,53 @@
         "custom_liquid": "<div id=\"shopify-section-template--27655111836030__logo_list_yQwKPV\" class=\"shopify-section section-logo-list\">\n  <link href=\"//babygo.uk/cdn/shop/t/108/assets/logo-list.css?v=158384124275033659971772638349\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n  <style>\n    #shopify-section-template--27655111836030__logo_list_yQwKPV {\n      background: #ffffff; /* 🔥 CHANGE ICI */\n    }\n\n    #shopify-section-template--27655111836030__logo_list_yQwKPV .logo-list {\n      padding-top: 35px;\n      padding-bottom: 35px;\n    }\n\n    @media screen and (min-width: 768px) {\n      #shopify-section-template--27655111836030__logo_list_yQwKPV .logo-list {\n        padding-top: 40px;\n        padding-bottom: 40px;\n      }\n    }\n  </style>\n\n  <div class=\"logo-list logo-list--centered-true\">\n    <div class=\"logo-list__inner swipe-on-mobile\" style=\"--logo-columns: 5\">\n\n      <div class=\"logo-list__logo\"><img width=\"338\" height=\"55\" src=\"//babygo.uk/cdn/shop/files/mother-_-baby_338x55_crop_center.svg?v=1715935528\"></div>\n      <div class=\"logo-list__logo\"><img width=\"441\" height=\"62\" src=\"//babygo.uk/cdn/shop/files/made-for-mums_441x62_crop_center.svg?v=1715935555\"></div>\n      <div class=\"logo-list__logo\"><img width=\"319\" height=\"64\" src=\"//babygo.uk/cdn/shop/files/womenshealth_319x64_crop_center.svg?v=1715935555\"></div>\n      <div class=\"logo-list__logo\"><img width=\"520\" height=\"85\" src=\"//babygo.uk/cdn/shop/files/emmas-diary_520x85_crop_center.svg?v=1715935555\"></div>\n      <div class=\"logo-list__logo\"><img width=\"600\" height=\"77\" src=\"//babygo.uk/cdn/shop/files/independent_600x77_crop_center.svg?v=1715935555\"></div>\n\n    </div>\n  </div>\n</div>\n<style>\n  #shopify-section-template--27655111836030__logo_list_yQwKPV {\n    background: #ffffff;\n    border-radius: 0 !important; /* 🔥 supprime les arrondis */\n    overflow: hidden; /* évite les effets bizarres */\n  }\n</style>"
       }
     },
+    "collection_list_bKbmkR": {
+      "type": "collection-list",
+      "name": "Collection list",
+      "settings": {
+        "heading": "",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "collection_list": [
+          "baby-carriers",
+          "accessories"
+        ],
+        "image_ratio": "portrait",
+        "layout": "grid",
+        "style": "style2",
+        "columns_desktop": 2,
+        "columns_mobile": "1",
+        "show_progress_bar": true,
+        "mobile_swipe": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "featured_collection_7r4fA9": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".product-card--badges {display: none !important;}"
+      ],
+      "name": "Featured collection",
+      "settings": {
+        "heading": "TODDLER SLING CARRIERS",
+        "heading_left": true,
+        "description": "<p><em>From 9 months - 4 years (max. 20 kg)</em></p>",
+        "full_width": true,
+        "collection": "baby-carriers",
+        "display_type": "carousel",
+        "product_limit": 8,
+        "columns_desktop": 4,
+        "show_view_all": false,
+        "mobile_swipe": true,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
     "scrolling_text_w6EXfN": {
       "type": "scrolling-text",
       "blocks": {
@@ -557,6 +604,8 @@
   "order": [
     "16479477632637c9a7",
     "custom_liquid_et6arH",
+    "collection_list_bKbmkR",
+    "featured_collection_7r4fA9",
     "scrolling_text_w6EXfN",
     "featured_collection_jWcj4B",
     "176424794314863b70",
