@@ -54,9 +54,9 @@
     "social_share_facebook": false,
     "social_share_twitter": false,
     "social_share_pinterest": false,
-    "product_content_alignment": "center",
+    "product_content_alignment": "left",
     "product_aspect_ratio": "adapt",
-    "products_hover_images": false,
+    "products_hover_images": true,
     "products_hover_images_count": 3,
     "products_hover_dots": false,
     "enable_quick_add": false,
@@ -66,6 +66,7 @@
     "show_products_rating": true,
     "sale_badge_type": "save_percentage",
     "badge_corner_radius": 1,
+    "currency_code_enabled": false,
     "lazy_loading": false,
     "sections": {
       "announcement-bar": {
