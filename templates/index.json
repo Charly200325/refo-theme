@@ -12,78 +12,26 @@
     "16479477632637c9a7": {
       "type": "slideshow",
       "blocks": {
-        "164794776393e76b8e-2": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/ON_SALE_1.png",
-            "slide_link": "",
-            "video_background": true,
-            "video": "",
-            "subheading": "",
-            "heading": "Designed for Pets, Loved by Owners.",
-            "heading_size": "h2",
-            "content": "",
-            "description_size": "small",
-            "content_position": "bottom-center",
-            "text_alignment": "center",
-            "content_size": "large",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(349deg, rgba(255, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 69%)",
-            "button_1_text": "SHOP BESR SELLERS",
-            "button_1_link": "shopify://collections",
-            "button_1_outline": false,
-            "button_2_text": "",
-            "button_2_link": "",
-            "button_2_outline": false
-          }
-        },
-        "164794776393e76b8e-0": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "slide_link": "",
-            "video_background": false,
-            "video": "",
-            "subheading": "",
-            "heading": "Gently cooked and RAW collections",
-            "heading_size": "h1",
-            "content": "",
-            "description_size": "medium",
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "content_size": "medium",
-            "overlay_color": "#000000",
-            "overlay_opacity": 35,
-            "overlay_gradient": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_1_outline": true,
-            "button_2_text": "Shop now",
-            "button_2_link": "",
-            "button_2_outline": false
-          }
-        },
         "164794776393e76b8e-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/Copie_de_Sans_titre_1.png",
             "slide_link": "",
             "video_background": false,
             "video": "",
-            "subheading": "",
-            "heading": "Like 5-STARS restaurant",
-            "heading_size": "h1-xlarge",
-            "content": "Tasty\nHealthy\nRecommended",
+            "subheading": "SPRING SPECIAL OFFER",
+            "heading": "SAVE UP TO 40%",
+            "heading_size": "h1-large",
+            "content": "",
             "description_size": "medium",
             "content_position": "middle-center",
             "text_alignment": "center",
             "content_size": "medium",
             "overlay_color": "#000000",
-            "overlay_opacity": 45,
+            "overlay_opacity": 18,
             "overlay_gradient": "",
-            "button_1_text": "Shop NOW",
-            "button_1_link": "",
+            "button_1_text": "SHOP CARRIERS",
+            "button_1_link": "shopify://collections/baby-carriers",
             "button_1_outline": false,
             "button_2_text": "",
             "button_2_link": "",
@@ -92,15 +40,11 @@
         }
       },
       "block_order": [
-        "164794776393e76b8e-2",
-        "164794776393e76b8e-0",
         "164794776393e76b8e-1"
       ],
-      "custom_css": [
-        ".h1 {text-transform: uppercase;}"
-      ],
+      "custom_css": [],
       "settings": {
-        "desktop_height": "desktop-height-full",
+        "desktop_height": "desktop-height-750",
         "mobile_height": "mobile-height-500",
         "full_width": true,
         "autoplay": true,
@@ -110,54 +54,11 @@
         "disable_bottom_spacing": true
       }
     },
-    "scrolling_text_QYgW7b": {
-      "type": "scrolling-text",
-      "blocks": {
-        "text_DdkCYP": {
-          "type": "text",
-          "settings": {
-            "text": "FREE DELIVERY OVER $50",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_7A4mAe": {
-          "type": "text",
-          "settings": {
-            "text": "FREE DELIVERY OVER $50",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_bPG3dM": {
-          "type": "text",
-          "settings": {
-            "text": "FREE DELIVERY OVER $50",
-            "link": "",
-            "outline_text": false
-          }
-        }
-      },
-      "block_order": [
-        "text_DdkCYP",
-        "text_7A4mAe",
-        "text_bPG3dM"
-      ],
-      "name": "Scrolling text",
+    "custom_liquid_et6arH": {
+      "type": "custom-liquid",
+      "name": "Custom liquid",
       "settings": {
-        "height": "height-auto",
-        "full_width": true,
-        "direction": "left",
-        "speed": "20s",
-        "text_size": 24,
-        "text_uppercase": false,
-        "image_size": "large",
-        "color_bg": "#0900b5",
-        "color_text": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
+        "custom_liquid": "<div id=\"shopify-section-template--27655111836030__logo_list_yQwKPV\" class=\"shopify-section section-logo-list\">\n  <link href=\"//babygo.uk/cdn/shop/t/108/assets/logo-list.css?v=158384124275033659971772638349\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n  <style>\n    #shopify-section-template--27655111836030__logo_list_yQwKPV {\n      background: #ffffff; /* 🔥 CHANGE ICI */\n    }\n\n    #shopify-section-template--27655111836030__logo_list_yQwKPV .logo-list {\n      padding-top: 35px;\n      padding-bottom: 35px;\n    }\n\n    @media screen and (min-width: 768px) {\n      #shopify-section-template--27655111836030__logo_list_yQwKPV .logo-list {\n        padding-top: 40px;\n        padding-bottom: 40px;\n      }\n    }\n  </style>\n\n  <div class=\"logo-list logo-list--centered-true\">\n    <div class=\"logo-list__inner swipe-on-mobile\" style=\"--logo-columns: 5\">\n\n      <div class=\"logo-list__logo\"><img width=\"338\" height=\"55\" src=\"//babygo.uk/cdn/shop/files/mother-_-baby_338x55_crop_center.svg?v=1715935528\"></div>\n      <div class=\"logo-list__logo\"><img width=\"441\" height=\"62\" src=\"//babygo.uk/cdn/shop/files/made-for-mums_441x62_crop_center.svg?v=1715935555\"></div>\n      <div class=\"logo-list__logo\"><img width=\"319\" height=\"64\" src=\"//babygo.uk/cdn/shop/files/womenshealth_319x64_crop_center.svg?v=1715935555\"></div>\n      <div class=\"logo-list__logo\"><img width=\"520\" height=\"85\" src=\"//babygo.uk/cdn/shop/files/emmas-diary_520x85_crop_center.svg?v=1715935555\"></div>\n      <div class=\"logo-list__logo\"><img width=\"600\" height=\"77\" src=\"//babygo.uk/cdn/shop/files/independent_600x77_crop_center.svg?v=1715935555\"></div>\n\n    </div>\n  </div>\n</div>\n<style>\n  #shopify-section-template--27655111836030__logo_list_yQwKPV {\n    background: #ffffff;\n    border-radius: 0 !important; /* 🔥 supprime les arrondis */\n    overflow: hidden; /* évite les effets bizarres */\n  }\n</style>"
       }
     },
     "scrolling_text_w6EXfN": {
@@ -568,7 +469,6 @@
       ],
       "settings": {
         "section_width": "full-width-row",
-        "image": "shopify://shop_images/imgi_448_Dog-Show-webpage-header-background-1.png",
         "image_parallax": false,
         "desktop_height": "desktop-height-650",
         "mobile_height": "mobile-height-500",
@@ -586,7 +486,6 @@
         "image_YXUiLD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/dog-models-dragon-wings-costume.jpg",
             "subheading": "",
             "title": "Dog Accessories",
             "text": "",
@@ -599,7 +498,6 @@
         "image_NmtqBX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/vecteezy_white-cat-peeking-through-a-hole-in-the-wall-looking_24677454.jpg",
             "subheading": "",
             "title": "CAT Accessories",
             "text": "",
@@ -612,7 +510,6 @@
         "image_a3egdf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ON_SALE.png",
             "subheading": "",
             "title": "ON SALE",
             "text": "",
@@ -625,7 +522,6 @@
         "image_8Q6AaV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_7.png",
             "subheading": "",
             "title": "PET ESSENTIALS",
             "text": "",
@@ -660,7 +556,7 @@
   },
   "order": [
     "16479477632637c9a7",
-    "scrolling_text_QYgW7b",
+    "custom_liquid_et6arH",
     "scrolling_text_w6EXfN",
     "featured_collection_jWcj4B",
     "176424794314863b70",
